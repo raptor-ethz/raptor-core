@@ -1,0 +1,9 @@
+[submodule "modules/position_ctrl_interface"]
+	path = modules/position_ctrl_interface
+	url = https://github.com/raptor-ethz/position_ctrl_interface.git
+[submodule "modules/reference_generator"]
+	path = modules/reference_generator
+	url = https://github.com/raptor-ethz/reference_generator.git
+[submodule "modules/mocap_publisher"]
+	path = modules/mocap_publisher
+	url = https://github.com/raptor-ethz/mocap_publisher.git
